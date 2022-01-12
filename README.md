@@ -1,11 +1,5 @@
 ### Hi I'm TAEYANG YOO (0dot77) 👋
 
-love development 🧑🏻‍💻 want to be FULL STACK DEVELOPER
-love research 📚 Culture Studies
-love art 🎨 Media art
-
-if you want to watch my artworks, please check my instagram.
-
 <!--
 **0dot77/0dot77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
