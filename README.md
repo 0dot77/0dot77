@@ -5,7 +5,7 @@ love research
 love art  
 
 Always want to be honest.  
-Currently want to be a FrontEnd developer 🧑🏻‍💻.
+Currently want to be a Front-End developer 🧑🏻‍💻.
 
 ### Education
 - Korea National University of Arts. (2017 - 2022)
