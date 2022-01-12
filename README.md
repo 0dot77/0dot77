@@ -8,7 +8,7 @@ Always want to be honest.
 Currently want to be a Front-End developer 🧑🏻‍💻.
 
 ### Education
-- Korea National University of Arts. (2017 - 2022)
+#### Korea National University of Arts. (2017 - 2022)
   - major. Korean Traditional Arts Theory
   - minor. Fine Arts
 
