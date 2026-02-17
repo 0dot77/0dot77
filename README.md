@@ -13,8 +13,8 @@
 | 📝 | **[DocMask](https://github.com/0dot77/docmask)** | Privacy masking tool for submitted documents — drag to redact personal info in 3 seconds | [docmask.kr](https://docmask.kr) |
 | ✂️ | **[Nukkitta](https://github.com/0dot77/nukkitta)** | AI background removal for e-commerce sellers — runs 100% in-browser, no server upload | [nukkitta.pages.dev](https://nukkitta.pages.dev) |
 | 📎 | **[Xidian](https://github.com/0dot77/xidian)** | Chrome extension that captures X/Twitter posts as clean markdown notes in Obsidian | [Chrome Web Store](https://chrome.google.com/webstore) |
-| 🌐 | **[Prompt Translator](https://github.com/0dot77/prompt-translator)** | Unified AI prompt translator for Midjourney, DALL-E, Stable Diffusion, Flux, Veo3, and more | — |
-| 🔗 | **[Kineforge](https://github.com/0dot77/kineforge)** | Node-based live media forge — body motion, AI vision, and GPU visuals composed in real time | — |
+| 🌐 | **[Prompt Translator](https://github.com/0dot77/prompt-translator)** | One prompt, every platform — rule-based translator that auto-adapts prompts to each model's style, CFG, and token limits (SD, SDXL, Flux, Pony, etc.) | [prompt-translator.pages.dev](https://prompt-translator.pages.dev) |
+| 🔗 | **[Kineforge](https://github.com/0dot77/kineforge)** | Node-based live media forge for dancers and media artists — webcam + MediaPipe face/hand tracking → GPU visuals, all in the browser | — |
 
 ---
 
