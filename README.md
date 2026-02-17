@@ -27,6 +27,9 @@
 ![Three.js](https://img.shields.io/badge/Three.js-000?style=flat&logo=threedotjs&logoColor=white)
 ![ComfyUI](https://img.shields.io/badge/ComfyUI-4A154B?style=flat)
 ![WebGPU](https://img.shields.io/badge/WebGPU-005A9C?style=flat)
+![TouchDesigner](https://img.shields.io/badge/TouchDesigner-1C1C1C?style=flat)
+![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=flat&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000?style=flat&logo=unity&logoColor=white)
 
 ---
 
